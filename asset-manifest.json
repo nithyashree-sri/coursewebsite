@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/coursewebsite/static/css/main.38bee567.css",
+    "main.js": "/coursewebsite/static/js/main.3b089354.js",
+    "static/media/gif.gif": "/coursewebsite/static/media/gif.043be303a3f3cf8efd75.gif",
+    "static/media/web-development-1.gif": "/coursewebsite/static/media/web-development-1.f457c30b2eac83668b73.gif",
+    "static/media/python.gif": "/coursewebsite/static/media/python.d971fd80f370f10007b8.gif",
+    "static/media/fullstack2.png": "/coursewebsite/static/media/fullstack2.5c37ff40478be8130c93.png",
+    "static/media/checkmark.png": "/coursewebsite/static/media/checkmark.837d8d85dea4f73d4273.png",
+    "static/media/course.png": "/coursewebsite/static/media/course.d9cb3d39c676578e8eb3.png",
+    "index.html": "/coursewebsite/index.html",
+    "main.38bee567.css.map": "/coursewebsite/static/css/main.38bee567.css.map",
+    "main.3b089354.js.map": "/coursewebsite/static/js/main.3b089354.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38bee567.css",
+    "static/js/main.3b089354.js"
+  ]
+}
